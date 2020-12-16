@@ -1,4 +1,4 @@
-#FROM ubuntu:latest
+
 FROM node:latest
 
 RUN mkdir -p MYAPP/app/src
