@@ -13,6 +13,4 @@ COPY . .
 
 EXPOSE 3000
 
-#CMD docker build . -t testapp
-
 CMD ["npm", "start"]
